@@ -1,3 +1,8 @@
+# To Do
+- [ ] Insert option to pick and chose color (add custom dict as per word as well)
+- [ ] Fix duplication error when min count = 1
+- [ ] Insert mask silhouette
+
 # mask_word_cloud
 Word cloud cairo-based command line generator (png, pdf and svg) using a shape mask.
 
